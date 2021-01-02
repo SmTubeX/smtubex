@@ -1,9 +1,9 @@
 [Desktop Entry]
-Exec=smtube
+Exec=smtubeX
 Comment=Browse and search videos from YouTube
 GenericName=YouTube Browser for SMPlayer
-Icon=smtube
-Name=SMTube
+Icon=smtubeX
+Name=SMTubeX
 Type=Application
 Categories=Qt;KDE;AudioVideo;Player;Video;
 
