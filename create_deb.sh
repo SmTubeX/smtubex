@@ -1,6 +1,6 @@
 #! /bin/sh
  
-ln -s debian-orig debian
+ln -s debian-orig debian_10
 cp debian-orig/changelog-orig debian-orig/changelog
 
 ./get_svn_revision.sh
