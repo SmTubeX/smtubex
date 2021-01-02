@@ -1,4 +1,13 @@
-    SMTube - a small YouTube browser for SMPlayer
+    # SMTubeX - an SMTube fork featuring advanced optimizations
+    
+    This is a advanced YouTube browser for SMPlayer. You can browse, search and
+    play YouTube videos. The videos can be played in SMPlayer or any
+    other media player. This fork is 2.5x faster and smoother. You can log in
+    to your google account to write comments and sync playlists.
+    
+    # License
+    
+    Copyright (C) 2020-2021 SMTubeX Authors
     Copyright (C) 2015-2020 Ricardo Villalba <rvm@users.sourceforge.net>
 
     This program is free software; you can redistribute it and/or modify
@@ -15,25 +24,7 @@
     along with this program; if not, write to the Free Software
     Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-    -------------------------------------------------------------------------
-
-    This is a YouTube browser for SMPlayer. You can browse, search and
-    play YouTube videos. The videos can be played in SMPlayer or any
-    other media player.
-
-    Visit the web for updates:
-    http://smtube.sourceforge.net
-
-    Forum:
-    http://forum.smplayer.info
-
-    The SMTube icon was created by redxii (<redxii@users.sourceforge.net>),
-    based on Crystal Project icons(http://everaldo.com/crystal/),
-    license LGPL.
-
-    -------------------------------------------------------------------------
-
-    Third-party:
+    # Third-party
 
      * Icons:
          H2O icons:
