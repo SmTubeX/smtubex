@@ -1,0 +1,177 @@
+Version 20.6:
+
+(2020-05-27)
+ * New option in preferences to select the site to use as homepage.
+
+(2020-05-22)
+ * The internal youtube code has been removed and now smtube just
+   uses youtube-dl to get the video urls.
+ * New option in the help menu to help install youtube-dl.
+
+
+Version 20.1:
+
+(2020-01-20)
+ * Fix the youtube code.
+
+
+Version 19.6:
+
+(2019-06-03)
+ * Fix the youtube code.
+
+
+Version 18.11:
+
+(2018-10-21)
+ * Add an option to play the video with a web browser.
+
+(2018-10-11)
+ * Update the youtube code.
+
+
+Version 18.9:
+
+(2018-09-11)
+ * Fix youtube
+
+
+Version 18.3:
+
+(2018-01-09)
+ * Fix the option "open audio with".
+
+
+Version 18.1:
+
+(2018-01-09)
+ * Fix youtube
+ * Add the Catalan translation.
+
+
+Version 17.5:
+
+(2017-05-04)
+ * Fix youtube
+
+
+Version 17.1:
+
+(2017-01-31)
+ * Fix youtube
+
+
+Version 16.7:
+
+(2016-06-23)
+ * Fix youtube
+
+(2016-06-19)
+ * Load the hdpi config from the smplayer config dir
+
+(2016-06-18)
+ * Change the palette only on Windows.
+
+
+Version 16.6:
+
+(2016-05-09)
+ * Build by default with Qt 5.
+
+(2016-04-08)
+ * Enable high DPI scaling.
+
+(2016-03-04)
+ * Replace ' with \' in the translation texts for the javascript code.
+
+
+Version 16.3:
+
+(2016-02-28)
+ * Add an option to select the application style.
+
+(2016-02-17)
+* Add an option in the settings dialog to select the application font.
+
+(2016-02-15)
+ * Add options to zoom in and out.
+
+(2016-02-03)
+ * Disable search using the location field.
+
+(2016-02-01)
+ * Add an option in the config dialog to use an external service (website)
+   to download videos.
+
+(2016-01-29)
+ * Add option "This player can play online TV" in the player dialog.
+
+
+Version 16.1:
+
+(2015-12-18)
+ * Fix the signature code.
+
+
+Version 15.11:
+
+(2015-11-17)
+ * Add support for YouTube live streams.
+ * Add the Hebrew translation.
+
+(2015-11-10)
+ * Fix the signature code.
+
+(2015-11-04)
+ * Open m3u8 URLs.
+
+
+Version 15.9:
+
+(2015-09-24)
+ * Check if the window is outside of the screen. In that case move it 
+   to 0x0.
+
+(2015-09-08)
+ * Fix the 'can't find URL' error when using Qt 5.
+
+(2015-09-01)
+ * Apply patch smtube-gmake.diff
+   (https://sourceforge.net/p/smplayer/bugs/701/)
+
+(2015-08-28)
+ * Don't use cache with PORTABLE_APP
+
+
+Version 15.8:
+
+(2015-08-20)
+ * Add the Turkish and Hungarian translations.
+
+(2015-08-03)
+ * New option for the config file: use_cookies. If set to false
+   then the cookies won't be loaded or saved.
+
+(2015-07-14)
+ * Add a combobox in PlayerDialog for the quality.
+
+(2015-06-25)
+ * New and experimental code to get the youtube URLs.
+
+(2015-06-15)
+ * Add menu Navigate.
+ * Add the load home action to the navigate menu.
+
+(2015-06-05)
+ * Add player 'smplayer (audio)'.
+
+(2015-06-01)
+ * Option to select the menu where a player should be.
+ * Use .m4a for extension for audio.
+
+(2015-05-31)
+ * Possibility to play only the audio.
+
+(2015-05-19)
+ * Add a button in the settings dialog to add the predefined players to
+   the list of players.
